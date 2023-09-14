@@ -15,7 +15,7 @@
 <style scoped>
 .alerts {
     padding: 5px;
-    background-color: brown;
+    background-color: #107EAE;
 }
 
 .alerts p {
